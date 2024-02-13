@@ -6,3 +6,4 @@ DevTunes adalah sebuah situs musik yang terinspirasi oleh Spotify. Pengguna dapa
 
 ## Introduction
 DevTunes is a music site inspired by Spotify. Users can play songs and browse public playlists without logging in. Once logged in, users can create playlists and add music that can be viewed by the public or set as private. If a playlist is marked as private, only logged-in users can access it. This website is still under development.
+![DevTunes Logo](devtunes.png)
